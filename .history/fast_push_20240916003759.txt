@@ -1,0 +1,5 @@
+# 将修改内容添加到暂存区
+# 
+git add .
+git commit -m "part study"
+git push -u origin main

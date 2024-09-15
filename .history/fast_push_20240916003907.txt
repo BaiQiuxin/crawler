@@ -1,0 +1,6 @@
+# 将修改内容添加到暂存区
+# 提交本次修改，""内名称可自行修改
+# 将修改提交到远程仓库
+git add .
+git commit -m "add push.txt"
+git push -u origin main
